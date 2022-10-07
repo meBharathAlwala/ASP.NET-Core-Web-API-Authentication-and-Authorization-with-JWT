@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qAnGbuw74Sw8Otp07JBjWO7c6yjFtIi87Sg5DM2gWFNe2WpssOBZSDIY1mrzT6V/exLJMLi43U/G4s2tHKTifw==",
+  "dgSpecHash": "LGR9ubcWrTjQYmP2/TSIe1magSAtXrcbYThfaDzPShHnOu//6yhZj/qd200ZlOmO+ZgknnMnHUMfI+1/qvLYgg==",
   "success": true,
-  "projectFilePath": "D:\\BestPractice0922\\WebApi\\WebApiJWT\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\BestPractice0922\\Git\\ASP.NET-Core-Web-API-Authentication-and-Authorization-with-JWT\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.9\\microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
